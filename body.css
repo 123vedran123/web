@@ -5,4 +5,9 @@ body
   /*ovo mi služi za postavljanje slike, a zadnje da se slika ne ponavlja hiljadu put po stranici*/
   background-position-x: right;
   backgrund-repeat: no repeat;
+  
+}
+p{
+  font-family: Verdana,Helvetica,sans-serif;
+  font size:12px;
 }
