@@ -2,4 +2,6 @@ body
 {
   background-image:url("racunalo.jpg");
   background-position-y: top;
-  background-position-x: right;}
+  background-position-x: right;
+  backgrund-repeat: no repeat
+}
