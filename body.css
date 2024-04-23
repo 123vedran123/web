@@ -7,7 +7,8 @@ body
   backgrund-repeat: no repeat;
   
 }
-p{
+p
+{ 
   font-family: Verdana,Helvetica,sans-serif;
   font size:12px;
 }
