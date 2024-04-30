@@ -18,15 +18,25 @@ p.citat
   font-style: italic;
   font-size: 11px;
   border:1px solid #000;
-  background-color #ffffcc;
+  background-color: #ffffcc;
 }
 p.drugi
 {
   color: FireBrick;
   text-align: center;
   text-decoration: underline;
+  border-width:thin;
+  border-style: solid;
+  border-left-color:white;
+  border-right-color:black;
+  border-botton-color:black;
+  border-top-color:black;
+  
 }
 p.treći
 {
   text-align: right;
+  border-style: insert;
+  border-width:thick;
+  border-color:green;
 }
