@@ -61,7 +61,7 @@ ul ul li a, ul ul li a:visited{
   witdh: 100px;
 }
 ul, li{
-  list-style: none;
+  list-style: none;/*ka se točke mekneju*/
   margin: 0px;
   padding: 1px;
 }
