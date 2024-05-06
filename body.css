@@ -60,4 +60,8 @@ ul ul li a, ul ul li a:visited{
   padding: 2px 0px 2px 1px;
   witdh: 100px;
 }
-  
+ul, li{
+  list-style: none;
+  margin: 0px;
+  padding: 1px;
+}
