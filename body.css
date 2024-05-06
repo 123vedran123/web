@@ -73,11 +73,11 @@ ul, li{
 }
 ul li a:hover{
   text-decoration: none;
-  border-left-color: #ccf;
+  border-left-color: green;
   background-color: red;
 }
 ul ul li a:hover{
   text-decoration: none;
-  border-left-color: #ccf;
+  border-left-color: green;
   background-color: red;
 }
