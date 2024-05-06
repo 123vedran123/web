@@ -64,4 +64,9 @@ ul, li{
   list-style: none;/*ka se točke mekneju*/
   margin: 0px;
   padding: 1px;
+  color: blue;
+  font-weight: bold;
+  borderleft-style: solid;
+  border-weight: 6px;
+
 }
