@@ -46,3 +46,18 @@ p.treći
   padding: 15px;
   margin-left:8px;
 }
+ul li a, un li a:visited{
+  display: block;
+  text-decoration: none;
+  margin: 1px;
+  padding: 2px 0px 2px 5px;
+  width: 100px;
+}
+ul ul li a, ul ul li a:visited{
+  display: block;
+  text-decoration: none;
+  margin: 1px 1px 1px 15px;
+  padding: 2px 0px 2px 1px;
+  witdh: 100px;
+}
+  
