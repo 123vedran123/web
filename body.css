@@ -52,6 +52,7 @@ ul li a, un li a:visited{
   margin: 1px;
   padding: 2px 0px 2px 5px;
   width: 100px;
+  border-left-color: blue;
 }
 ul ul li a, ul ul li a:visited{
   display: block;
@@ -59,12 +60,12 @@ ul ul li a, ul ul li a:visited{
   margin: 1px 1px 1px 15px;
   padding: 2px 0px 2px 1px;
   witdh: 100px;
+  border-left-color: blue;
 }
 ul, li{
   list-style: none;/*ka se točke mekneju*/
   margin: 0px;
   padding: 1px;
-  border-left-color: blue;
   font-witdh: bold;
   border-left-style: solid;
   border-witdh: 6px;
