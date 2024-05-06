@@ -68,5 +68,12 @@ ul, li{
   font-witdh: bold;
   border-left-style: solid;
   border-witdh: 6px;
-
+}
+ul li a:hover{
+  text-decoration: none;
+  border-left-color: #ccf:
+}
+ul ul li a:hover{
+  text-decoration: none;
+  border-left-color: #ccf;
 }
